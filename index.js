@@ -12,6 +12,13 @@ app.get('/', (req, res) => {
 app.get('/chef', (req, res) => {
     res.send(chefJsonData)
 })
+app.get('/chef/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    console.log(id)
+    const chefId = chefJsonData.find(n => parseInt(n.id) === id)
+    console.log(chefId)
+    res.send(chefId)
+})
 
 app.listen(port, () => {
     console.log(`assignment: ${port}`)
