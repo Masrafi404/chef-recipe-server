@@ -47,14 +47,14 @@
     },
     {
         "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg",
-        "name": "",
+        "name": "Abu Hurayra",
         "experience": 15,
         "numRecipes": 10,
         "likes": 1500,
         "id": 2,
         "recipes": [
             {
-                "name": "Abdul Al Mumin",
+                "name": "Grilled Beef",
                 "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg",
                 "ingredients": [
                     "1 lb. sirloin steak",
