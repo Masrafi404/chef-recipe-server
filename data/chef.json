@@ -1,0 +1,272 @@
+[
+    {
+        "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+        "name": "John Smith",
+        "experience": 15,
+        "numRecipes": 10,
+        "likes": 1500,
+        "recipes": [
+            {
+                "name": "Grilled Steak",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg",
+                "ingredients": [
+                    "1 lb. sirloin steak",
+                    "1 tsp. salt",
+                    "1 tsp. black pepper",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Grill for 8-10 minutes on each side",
+                "rating": 4.5
+            },
+            {
+                "name": "Pan-Seared Salmon",
+                "image": "https://img.freepik.com/free-photo/grilled-salmon-steak_1339-5889.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tbsp. lemon juice",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=996&t=st=1683071048~exp=1683071648~hmac=392b30e74eb14fa189c372e78757a73b599d9ce353599faed424454b0d727d69",
+                "ingredients": [
+                    "1 lb. spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts"
+                ],
+                "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg",
+        "name": "John Smith",
+        "experience": 15,
+        "numRecipes": 10,
+        "likes": 1500,
+        "recipes": [
+            {
+                "name": "Grilled Steak",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg",
+                "ingredients": [
+                    "1 lb. sirloin steak",
+                    "1 tsp. salt",
+                    "1 tsp. black pepper",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Grill for 8-10 minutes on each side",
+                "rating": 4.5
+            },
+            {
+                "name": "Pan-Seared Salmon",
+                "image": "https://img.freepik.com/free-photo/grilled-salmon-steak_1339-5889.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tbsp. lemon juice",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=996&t=st=1683071048~exp=1683071648~hmac=392b30e74eb14fa189c372e78757a73b599d9ce353599faed424454b0d727d69",
+                "ingredients": [
+                    "1 lb. spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts"
+                ],
+                "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "picture": "https://img.freepik.com/premium-psd/feeling-proudsmiling-positively-with-thumbs-up_1194-477332.jpg",
+        "name": "John Smith",
+        "experience": 15,
+        "numRecipes": 10,
+        "likes": 1500,
+        "recipes": [
+            {
+                "name": "Grilled Steak",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg",
+                "ingredients": [
+                    "1 lb. sirloin steak",
+                    "1 tsp. salt",
+                    "1 tsp. black pepper",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Grill for 8-10 minutes on each side",
+                "rating": 4.5
+            },
+            {
+                "name": "Pan-Seared Salmon",
+                "image": "https://img.freepik.com/free-photo/grilled-salmon-steak_1339-5889.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tbsp. lemon juice",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=996&t=st=1683071048~exp=1683071648~hmac=392b30e74eb14fa189c372e78757a73b599d9ce353599faed424454b0d727d69",
+                "ingredients": [
+                    "1 lb. spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts"
+                ],
+                "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg",
+        "name": "John Smith",
+        "experience": 15,
+        "numRecipes": 10,
+        "likes": 1500,
+        "recipes": [
+            {
+                "name": "Grilled Steak",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg",
+                "ingredients": [
+                    "1 lb. sirloin steak",
+                    "1 tsp. salt",
+                    "1 tsp. black pepper",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Grill for 8-10 minutes on each side",
+                "rating": 4.5
+            },
+            {
+                "name": "Pan-Seared Salmon",
+                "image": "https://img.freepik.com/free-photo/grilled-salmon-steak_1339-5889.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tbsp. lemon juice",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=996&t=st=1683071048~exp=1683071648~hmac=392b30e74eb14fa189c372e78757a73b599d9ce353599faed424454b0d727d69",
+                "ingredients": [
+                    "1 lb. spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts"
+                ],
+                "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "picture": "https://img.freepik.com/premium-photo/young-female-chef-isolated-white-background_185193-77538.jpg",
+        "name": "John Smith",
+        "experience": 15,
+        "numRecipes": 10,
+        "likes": 1500,
+        "recipes": [
+            {
+                "name": "Grilled Steak",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg",
+                "ingredients": [
+                    "1 lb. sirloin steak",
+                    "1 tsp. salt",
+                    "1 tsp. black pepper",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Grill for 8-10 minutes on each side",
+                "rating": 4.5
+            },
+            {
+                "name": "Pan-Seared Salmon",
+                "image": "https://img.freepik.com/free-photo/grilled-salmon-steak_1339-5889.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tbsp. lemon juice",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=996&t=st=1683071048~exp=1683071648~hmac=392b30e74eb14fa189c372e78757a73b599d9ce353599faed424454b0d727d69",
+                "ingredients": [
+                    "1 lb. spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts"
+                ],
+                "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "picture": "https://img.freepik.com/free-photo/front-view-young-male-cook-white-cook-suit-white-head-cap-standing_140725-15546.jpg",
+        "name": "Jane Doe",
+        "experience": 10,
+        "numRecipes": 7,
+        "likes": 1200,
+        "recipes": [
+            {
+                "name": "Grilled Steak",
+                "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg",
+                "ingredients": [
+                    "1 lb. sirloin steak",
+                    "1 tsp. salt",
+                    "1 tsp. black pepper",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Grill for 8-10 minutes on each side",
+                "rating": 4.5
+            },
+            {
+                "name": "Pan-Seared Salmon",
+                "image": "https://img.freepik.com/free-photo/grilled-salmon-steak_1339-5889.jpg",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/4 cup olive oil",
+                    "2 tbsp. lemon juice",
+                    "2 cloves garlic, minced"
+                ],
+                "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Pasta",
+                "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=996&t=st=1683071048~exp=1683071648~hmac=392b30e74eb14fa189c372e78757a73b599d9ce353599faed424454b0d727d69",
+                "ingredients": [
+                    "1 lb. spaghetti",
+                    "1/2 cup basil pesto",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 cup pine nuts"
+                ],
+                "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
+                "rating": 4.3
+            }
+        ]
+    }
+]
