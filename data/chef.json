@@ -1,11 +1,12 @@
 [
     {
         "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
-        "name": "Al Amin",
+        "chef_name": "Al Amin",
         "experience": 15,
         "numRecipes": 10,
         "likes": 1500,
         "id": 1,
+        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -14,7 +15,8 @@
                     "1 lb. sirloin steak",
                     "1 tsp. salt",
                     "1 tsp. black pepper",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Grill for 8-10 minutes on each side",
                 "rating": 4.5
@@ -26,7 +28,8 @@
                     "4 salmon fillets",
                     "1/4 cup olive oil",
                     "2 tbsp. lemon juice",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
                 "rating": 4.8
@@ -38,7 +41,8 @@
                     "1 lb. spaghetti",
                     "1/2 cup basil pesto",
                     "1/4 cup grated Parmesan cheese",
-                    "1/4 cup pine nuts"
+                    "1/4 cup pine nuts",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
                 "rating": 4.3
@@ -47,11 +51,12 @@
     },
     {
         "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg",
-        "name": "Abu Hurayra",
+        "chef_name": "Abu Hurayra",
         "experience": 15,
         "numRecipes": 10,
         "likes": 1500,
         "id": 2,
+        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Beef",
@@ -60,7 +65,8 @@
                     "1 lb. sirloin steak",
                     "1 tsp. salt",
                     "1 tsp. black pepper",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Grill for 8-10 minutes on each side",
                 "rating": 4.5
@@ -72,7 +78,8 @@
                     "4 salmon fillets",
                     "1/4 cup olive oil",
                     "2 tbsp. lemon juice",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
                 "rating": 4.8
@@ -84,7 +91,8 @@
                     "1 lb. spaghetti",
                     "1/2 cup basil pesto",
                     "1/4 cup grated Parmesan cheese",
-                    "1/4 cup pine nuts"
+                    "1/4 cup pine nuts",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
                 "rating": 4.3
@@ -93,11 +101,12 @@
     },
     {
         "picture": "https://img.freepik.com/premium-psd/feeling-proudsmiling-positively-with-thumbs-up_1194-477332.jpg",
-        "name": "Robiul Islam",
+        "chef_name": "Robiul Islam",
         "experience": 15,
         "numRecipes": 10,
         "likes": 1500,
         "id": 3,
+        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -106,7 +115,8 @@
                     "1 lb. sirloin steak",
                     "1 tsp. salt",
                     "1 tsp. black pepper",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Grill for 8-10 minutes on each side",
                 "rating": 4.5
@@ -118,7 +128,8 @@
                     "4 salmon fillets",
                     "1/4 cup olive oil",
                     "2 tbsp. lemon juice",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
                 "rating": 4.8
@@ -130,7 +141,8 @@
                     "1 lb. spaghetti",
                     "1/2 cup basil pesto",
                     "1/4 cup grated Parmesan cheese",
-                    "1/4 cup pine nuts"
+                    "1/4 cup pine nuts",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
                 "rating": 4.3
@@ -139,11 +151,12 @@
     },
     {
         "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg",
-        "name": "Masum Billah",
+        "chef_name": "Masum Billah",
         "experience": 15,
         "numRecipes": 10,
         "likes": 1500,
         "id": 4,
+        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -152,7 +165,8 @@
                     "1 lb. sirloin steak",
                     "1 tsp. salt",
                     "1 tsp. black pepper",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Grill for 8-10 minutes on each side",
                 "rating": 4.5
@@ -164,7 +178,8 @@
                     "4 salmon fillets",
                     "1/4 cup olive oil",
                     "2 tbsp. lemon juice",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
                 "rating": 4.8
@@ -176,7 +191,8 @@
                     "1 lb. spaghetti",
                     "1/2 cup basil pesto",
                     "1/4 cup grated Parmesan cheese",
-                    "1/4 cup pine nuts"
+                    "1/4 cup pine nuts",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
                 "rating": 4.3
@@ -185,11 +201,12 @@
     },
     {
         "picture": "https://img.freepik.com/premium-photo/young-female-chef-isolated-white-background_185193-77538.jpg",
-        "name": "Siam Ahmed",
+        "chef_name": "Mariya Akther",
         "experience": 15,
         "numRecipes": 10,
         "likes": 1500,
         "id": 5,
+        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -198,7 +215,8 @@
                     "1 lb. sirloin steak",
                     "1 tsp. salt",
                     "1 tsp. black pepper",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Grill for 8-10 minutes on each side",
                 "rating": 4.5
@@ -210,7 +228,8 @@
                     "4 salmon fillets",
                     "1/4 cup olive oil",
                     "2 tbsp. lemon juice",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
                 "rating": 4.8
@@ -222,7 +241,8 @@
                     "1 lb. spaghetti",
                     "1/2 cup basil pesto",
                     "1/4 cup grated Parmesan cheese",
-                    "1/4 cup pine nuts"
+                    "1/4 cup pine nuts",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
                 "rating": 4.3
@@ -231,11 +251,12 @@
     },
     {
         "picture": "https://img.freepik.com/free-photo/front-view-young-male-cook-white-cook-suit-white-head-cap-standing_140725-15546.jpg",
-        "name": "Jane Doe",
+        "chef_name": "Siam Ahmed",
         "experience": 10,
         "numRecipes": 7,
         "likes": 1200,
         "id": 6,
+        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -244,7 +265,8 @@
                     "1 lb. sirloin steak",
                     "1 tsp. salt",
                     "1 tsp. black pepper",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Grill for 8-10 minutes on each side",
                 "rating": 4.5
@@ -256,7 +278,8 @@
                     "4 salmon fillets",
                     "1/4 cup olive oil",
                     "2 tbsp. lemon juice",
-                    "2 cloves garlic, minced"
+                    "2 cloves garlic, minced",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Heat olive oil in a pan, cook salmon for 5-6 minutes on each side",
                 "rating": 4.8
@@ -268,7 +291,8 @@
                     "1 lb. spaghetti",
                     "1/2 cup basil pesto",
                     "1/4 cup grated Parmesan cheese",
-                    "1/4 cup pine nuts"
+                    "1/4 cup pine nuts",
+                    "Oil like relatives"
                 ],
                 "cookingMethod": "Cook spaghetti according to package instructions, add pesto and Parmesan cheese, sprinkle with pine nuts",
                 "rating": 4.3
