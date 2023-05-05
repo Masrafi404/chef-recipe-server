@@ -6,7 +6,7 @@
         "numRecipes": 10,
         "likes": 1500,
         "id": 1,
-        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
+        "description": "Al Amin is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, Al Amin enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -56,7 +56,7 @@
         "numRecipes": 10,
         "likes": 1500,
         "id": 2,
-        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
+        "description": "Abu Hurayra is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, Abu Hurayra enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Beef",
@@ -106,7 +106,7 @@
         "numRecipes": 10,
         "likes": 1500,
         "id": 3,
-        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
+        "description": "Robiul Islam is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, Robiul Islam enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -156,7 +156,7 @@
         "numRecipes": 10,
         "likes": 1500,
         "id": 4,
-        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
+        "description": "Masum Billah Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, Masum Billah enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -206,7 +206,7 @@
         "numRecipes": 10,
         "likes": 1500,
         "id": 5,
-        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
+        "description": "Mariya Akther is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, Mariya Akther enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
@@ -256,7 +256,7 @@
         "numRecipes": 7,
         "likes": 1200,
         "id": 6,
-        "description": "John Doe is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, John enjoys exploring new restaurants and experimenting with new cooking techniques.",
+        "description": "Siam Ahmed is a renowned chef with over 20 years of experience in the culinary industry. He specializes in Italian cuisine and is known for his innovative recipes and use of fresh, local ingredients. In his free time, Siam Ahmed enjoys exploring new restaurants and experimenting with new cooking techniques.",
         "recipes": [
             {
                 "name": "Grilled Steak",
